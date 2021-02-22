@@ -1,0 +1,12 @@
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.exe.config
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.exe
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCodeTest.pdb
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\bin\Debug\QRCoder.dll
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csprojAssemblyReference.cache
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.Properties.Resources.resources
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.GenerateResource.cache
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.CoreCompileInputs.cache
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.csproj.CopyComplete
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.exe
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.pdb
+C:\Users\escritorio\Documents\Workspace\QRCodeTest\QRCodeTest\QRCodeTest\obj\Debug\QRCodeTest.forms1.resources
